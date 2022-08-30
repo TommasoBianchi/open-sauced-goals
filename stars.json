@@ -1,0 +1,182 @@
+[
+  {
+    "full_name": "toeverything/AFFiNE",
+    "stargazers_count": 8758,
+    "open_issues_count": 45,
+    "forks_count": 336
+  },
+  {
+    "full_name": "trimstray/the-book-of-secret-knowledge",
+    "stargazers_count": 76190,
+    "open_issues_count": 22,
+    "forks_count": 6267
+  },
+  {
+    "full_name": "bcicen/ctop",
+    "stargazers_count": 13198,
+    "open_issues_count": 74,
+    "forks_count": 507
+  },
+  {
+    "full_name": "dragonflydb/dragonfly",
+    "stargazers_count": 11334,
+    "open_issues_count": 37,
+    "forks_count": 258
+  },
+  {
+    "full_name": "pintariching/rustle",
+    "stargazers_count": 1064,
+    "open_issues_count": 9,
+    "forks_count": 23
+  },
+  {
+    "full_name": "erg-lang/erg",
+    "stargazers_count": 1908,
+    "open_issues_count": 19,
+    "forks_count": 41
+  },
+  {
+    "full_name": "sharkdp/bat",
+    "stargazers_count": 36718,
+    "open_issues_count": 160,
+    "forks_count": 953
+  },
+  {
+    "full_name": "iterative/dvc",
+    "stargazers_count": 10211,
+    "open_issues_count": 644,
+    "forks_count": 968
+  },
+  {
+    "full_name": "turbot/steampipe",
+    "stargazers_count": 2081,
+    "open_issues_count": 223,
+    "forks_count": 88
+  },
+  {
+    "full_name": "slundberg/shap",
+    "stargazers_count": 17341,
+    "open_issues_count": 1472,
+    "forks_count": 2625
+  },
+  {
+    "full_name": "starship/starship",
+    "stargazers_count": 28248,
+    "open_issues_count": 446,
+    "forks_count": 1183
+  },
+  {
+    "full_name": "cookiecutter/cookiecutter",
+    "stargazers_count": 17868,
+    "open_issues_count": 231,
+    "forks_count": 1713
+  },
+  {
+    "full_name": "RustPython/RustPython",
+    "stargazers_count": 11982,
+    "open_issues_count": 284,
+    "forks_count": 829
+  },
+  {
+    "full_name": "ephigabay/GIC",
+    "stargazers_count": 69,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
+    "full_name": "cdpierse/transformers-interpret",
+    "stargazers_count": 772,
+    "open_issues_count": 9,
+    "forks_count": 74
+  },
+  {
+    "full_name": "marklagendijk/node-toogoodtogo-watcher",
+    "stargazers_count": 256,
+    "open_issues_count": 6,
+    "forks_count": 104
+  },
+  {
+    "full_name": "volcano-sh/volcano",
+    "stargazers_count": 2580,
+    "open_issues_count": 193,
+    "forks_count": 595
+  },
+  {
+    "full_name": "yjs/yjs",
+    "stargazers_count": 8791,
+    "open_issues_count": 58,
+    "forks_count": 347
+  },
+  {
+    "full_name": "PicoJr/google-hashcode-template",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "sickcodes/Docker-OSX",
+    "stargazers_count": 23671,
+    "open_issues_count": 193,
+    "forks_count": 1160
+  },
+  {
+    "full_name": "othiym23/node-continuation-local-storage",
+    "stargazers_count": 1077,
+    "open_issues_count": 51,
+    "forks_count": 207
+  },
+  {
+    "full_name": "nol1fe/delaunator-sharp",
+    "stargazers_count": 212,
+    "open_issues_count": 2,
+    "forks_count": 31
+  },
+  {
+    "full_name": "jalammar/ecco",
+    "stargazers_count": 1480,
+    "open_issues_count": 15,
+    "forks_count": 100
+  },
+  {
+    "full_name": "derailed/k9s",
+    "stargazers_count": 17680,
+    "open_issues_count": 341,
+    "forks_count": 1116
+  },
+  {
+    "full_name": "aaronpowell/httpstatus",
+    "stargazers_count": 495,
+    "open_issues_count": 7,
+    "forks_count": 62
+  },
+  {
+    "full_name": "DenverCoder1/github-readme-streak-stats",
+    "stargazers_count": 1589,
+    "open_issues_count": 6,
+    "forks_count": 293
+  },
+  {
+    "full_name": "rancher/k3c",
+    "stargazers_count": 570,
+    "open_issues_count": 12,
+    "forks_count": 22
+  },
+  {
+    "full_name": "k3d-io/k3d",
+    "stargazers_count": 3786,
+    "open_issues_count": 113,
+    "forks_count": 358
+  },
+  {
+    "full_name": "testcontainers/testcontainers-go",
+    "stargazers_count": 1533,
+    "open_issues_count": 58,
+    "forks_count": 215
+  },
+  {
+    "full_name": "SeldonIO/seldon-core",
+    "stargazers_count": 3336,
+    "open_issues_count": 156,
+    "forks_count": 698
+  }
+]
