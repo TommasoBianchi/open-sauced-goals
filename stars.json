@@ -1,135 +1,135 @@
 [
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 190,
-    "open_issues_count": 43,
-    "forks_count": 62
+    "stargazers_count": 196,
+    "open_issues_count": 38,
+    "forks_count": 63
   },
   {
     "full_name": "microsoft/DeepSpeed",
-    "stargazers_count": 8199,
-    "open_issues_count": 574,
+    "stargazers_count": 8210,
+    "open_issues_count": 576,
     "forks_count": 962
   },
   {
     "full_name": "lunatic-solutions/lunatic",
-    "stargazers_count": 3481,
-    "open_issues_count": 41,
+    "stargazers_count": 3486,
+    "open_issues_count": 42,
     "forks_count": 101
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 21375,
-    "open_issues_count": 119,
-    "forks_count": 636
+    "stargazers_count": 21520,
+    "open_issues_count": 103,
+    "forks_count": 639
   },
   {
     "full_name": "hpcaitech/ColossalAI",
-    "stargazers_count": 6729,
-    "open_issues_count": 115,
+    "stargazers_count": 6790,
+    "open_issues_count": 113,
     "forks_count": 637
   },
   {
     "full_name": "google/latexify_py",
-    "stargazers_count": 5477,
-    "open_issues_count": 21,
-    "forks_count": 301
+    "stargazers_count": 5552,
+    "open_issues_count": 13,
+    "forks_count": 307
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 9708,
-    "open_issues_count": 170,
-    "forks_count": 370
+    "stargazers_count": 9736,
+    "open_issues_count": 174,
+    "forks_count": 374
   },
   {
     "full_name": "IsmaelMartinez/teams-for-linux",
-    "stargazers_count": 1245,
+    "stargazers_count": 1251,
     "open_issues_count": 30,
     "forks_count": 115
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 691,
-    "open_issues_count": 4,
+    "stargazers_count": 693,
+    "open_issues_count": 6,
     "forks_count": 13
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 11059,
-    "open_issues_count": 51,
+    "stargazers_count": 11100,
+    "open_issues_count": 52,
     "forks_count": 444
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 83222,
+    "stargazers_count": 83491,
     "open_issues_count": 28,
-    "forks_count": 6645
+    "forks_count": 6654
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 13651,
+    "stargazers_count": 13667,
     "open_issues_count": 83,
     "forks_count": 514
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 16210,
-    "open_issues_count": 60,
-    "forks_count": 520
+    "stargazers_count": 16264,
+    "open_issues_count": 61,
+    "forks_count": 523
   },
   {
     "full_name": "pintariching/rustle",
-    "stargazers_count": 1253,
-    "open_issues_count": 1,
+    "stargazers_count": 1257,
+    "open_issues_count": 2,
     "forks_count": 32
   },
   {
     "full_name": "erg-lang/erg",
-    "stargazers_count": 2030,
-    "open_issues_count": 34,
+    "stargazers_count": 2032,
+    "open_issues_count": 35,
     "forks_count": 43
   },
   {
     "full_name": "sharkdp/bat",
-    "stargazers_count": 38276,
+    "stargazers_count": 38332,
     "open_issues_count": 160,
-    "forks_count": 1006
+    "forks_count": 1007
   },
   {
     "full_name": "iterative/dvc",
-    "stargazers_count": 10710,
-    "open_issues_count": 646,
-    "forks_count": 1000
+    "stargazers_count": 10720,
+    "open_issues_count": 648,
+    "forks_count": 1002
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4104,
-    "open_issues_count": 270,
+    "stargazers_count": 4119,
+    "open_issues_count": 262,
     "forks_count": 157
   },
   {
     "full_name": "slundberg/shap",
-    "stargazers_count": 17993,
-    "open_issues_count": 1555,
-    "forks_count": 2710
+    "stargazers_count": 18021,
+    "open_issues_count": 1557,
+    "forks_count": 2716
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 30780,
-    "open_issues_count": 474,
-    "forks_count": 1291
+    "stargazers_count": 30876,
+    "open_issues_count": 469,
+    "forks_count": 1295
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 18456,
+    "stargazers_count": 18475,
     "open_issues_count": 248,
-    "forks_count": 1752
+    "forks_count": 1754
   },
   {
     "full_name": "RustPython/RustPython",
-    "stargazers_count": 12614,
-    "open_issues_count": 297,
-    "forks_count": 875
+    "stargazers_count": 12637,
+    "open_issues_count": 296,
+    "forks_count": 876
   },
   {
     "full_name": "ephigabay/GIC",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "cdpierse/transformers-interpret",
-    "stargazers_count": 876,
+    "stargazers_count": 893,
     "open_issues_count": 17,
     "forks_count": 80
   },
   {
     "full_name": "marklagendijk/node-toogoodtogo-watcher",
-    "stargazers_count": 269,
+    "stargazers_count": 270,
     "open_issues_count": 14,
     "forks_count": 110
   },
   {
     "full_name": "volcano-sh/volcano",
-    "stargazers_count": 2725,
-    "open_issues_count": 150,
-    "forks_count": 632
+    "stargazers_count": 2728,
+    "open_issues_count": 141,
+    "forks_count": 634
   },
   {
     "full_name": "yjs/yjs",
-    "stargazers_count": 9610,
-    "open_issues_count": 67,
-    "forks_count": 377
+    "stargazers_count": 9657,
+    "open_issues_count": 66,
+    "forks_count": 379
   },
   {
     "full_name": "PicoJr/google-hashcode-template",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "sickcodes/Docker-OSX",
-    "stargazers_count": 24621,
+    "stargazers_count": 24651,
     "open_issues_count": 209,
-    "forks_count": 1225
+    "forks_count": 1227
   },
   {
     "full_name": "othiym23/node-continuation-local-storage",
