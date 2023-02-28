@@ -1,159 +1,159 @@
 [
   {
     "full_name": "gofireflyio/aiac",
-    "stargazers_count": 1707,
+    "stargazers_count": 1734,
     "open_issues_count": 7,
-    "forks_count": 119
+    "forks_count": 121
   },
   {
     "full_name": "cleanlab/cleanlab",
-    "stargazers_count": 5322,
-    "open_issues_count": 57,
-    "forks_count": 448
+    "stargazers_count": 5360,
+    "open_issues_count": 58,
+    "forks_count": 453
   },
   {
     "full_name": "NannyML/nannyml",
-    "stargazers_count": 1421,
-    "open_issues_count": 12,
-    "forks_count": 97
+    "stargazers_count": 1430,
+    "open_issues_count": 11,
+    "forks_count": 98
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21306,
-    "open_issues_count": 40,
-    "forks_count": 821
+    "stargazers_count": 21398,
+    "open_issues_count": 41,
+    "forks_count": 826
   },
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 328,
-    "open_issues_count": 51,
-    "forks_count": 130
+    "stargazers_count": 333,
+    "open_issues_count": 53,
+    "forks_count": 134
   },
   {
     "full_name": "microsoft/DeepSpeed",
-    "stargazers_count": 9033,
-    "open_issues_count": 643,
-    "forks_count": 1084
+    "stargazers_count": 9103,
+    "open_issues_count": 651,
+    "forks_count": 1097
   },
   {
     "full_name": "lunatic-solutions/lunatic",
-    "stargazers_count": 3928,
+    "stargazers_count": 3944,
     "open_issues_count": 35,
-    "forks_count": 116
+    "forks_count": 117
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 22593,
+    "stargazers_count": 22614,
     "open_issues_count": 149,
-    "forks_count": 656
+    "forks_count": 657
   },
   {
     "full_name": "hpcaitech/ColossalAI",
-    "stargazers_count": 15803,
-    "open_issues_count": 221,
-    "forks_count": 1667
+    "stargazers_count": 16932,
+    "open_issues_count": 245,
+    "forks_count": 1776
   },
   {
     "full_name": "google/latexify_py",
-    "stargazers_count": 6024,
+    "stargazers_count": 6029,
     "open_issues_count": 15,
     "forks_count": 326
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 10774,
-    "open_issues_count": 169,
-    "forks_count": 407
+    "stargazers_count": 10798,
+    "open_issues_count": 189,
+    "forks_count": 408
   },
   {
     "full_name": "IsmaelMartinez/teams-for-linux",
-    "stargazers_count": 1353,
+    "stargazers_count": 1361,
     "open_issues_count": 45,
-    "forks_count": 120
+    "forks_count": 121
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 803,
-    "open_issues_count": 6,
+    "stargazers_count": 805,
+    "open_issues_count": 7,
     "forks_count": 20
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 13090,
-    "open_issues_count": 98,
-    "forks_count": 603
+    "stargazers_count": 13193,
+    "open_issues_count": 104,
+    "forks_count": 610
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 90545,
-    "open_issues_count": 39,
-    "forks_count": 6961
+    "stargazers_count": 90921,
+    "open_issues_count": 40,
+    "forks_count": 6982
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 13991,
-    "open_issues_count": 87,
-    "forks_count": 518
+    "stargazers_count": 14005,
+    "open_issues_count": 89,
+    "forks_count": 516
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 16996,
-    "open_issues_count": 106,
-    "forks_count": 560
+    "stargazers_count": 17068,
+    "open_issues_count": 108,
+    "forks_count": 566
   },
   {
     "full_name": "pintariching/rustle",
-    "stargazers_count": 1301,
+    "stargazers_count": 1302,
     "open_issues_count": 4,
     "forks_count": 35
   },
   {
     "full_name": "erg-lang/erg",
-    "stargazers_count": 2109,
-    "open_issues_count": 55,
+    "stargazers_count": 2112,
+    "open_issues_count": 54,
     "forks_count": 46
   },
   {
     "full_name": "sharkdp/bat",
-    "stargazers_count": 39778,
-    "open_issues_count": 174,
+    "stargazers_count": 39865,
+    "open_issues_count": 179,
     "forks_count": 1043
   },
   {
     "full_name": "iterative/dvc",
-    "stargazers_count": 11125,
-    "open_issues_count": 611,
-    "forks_count": 1032
+    "stargazers_count": 11141,
+    "open_issues_count": 607,
+    "forks_count": 1034
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4829,
-    "open_issues_count": 267,
+    "stargazers_count": 4842,
+    "open_issues_count": 281,
     "forks_count": 179
   },
   {
     "full_name": "slundberg/shap",
-    "stargazers_count": 18600,
-    "open_issues_count": 1620,
-    "forks_count": 2804
+    "stargazers_count": 18631,
+    "open_issues_count": 1622,
+    "forks_count": 2810
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 32715,
-    "open_issues_count": 503,
+    "stargazers_count": 32851,
+    "open_issues_count": 508,
     "forks_count": 1384
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 18982,
+    "stargazers_count": 19014,
     "open_issues_count": 264,
-    "forks_count": 1788
+    "forks_count": 1793
   },
   {
     "full_name": "RustPython/RustPython",
-    "stargazers_count": 13702,
-    "open_issues_count": 318,
-    "forks_count": 926
+    "stargazers_count": 13723,
+    "open_issues_count": 300,
+    "forks_count": 925
   },
   {
     "full_name": "ephigabay/GIC",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "cdpierse/transformers-interpret",
-    "stargazers_count": 966,
-    "open_issues_count": 25,
+    "stargazers_count": 969,
+    "open_issues_count": 26,
     "forks_count": 85
   },
   {
     "full_name": "marklagendijk/node-toogoodtogo-watcher",
-    "stargazers_count": 292,
+    "stargazers_count": 293,
     "open_issues_count": 12,
     "forks_count": 113
   },
   {
     "full_name": "volcano-sh/volcano",
-    "stargazers_count": 2828,
-    "open_issues_count": 113,
-    "forks_count": 666
+    "stargazers_count": 2833,
+    "open_issues_count": 114,
+    "forks_count": 667
   }
 ]
