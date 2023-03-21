@@ -1,182 +1,182 @@
 [
   {
+    "full_name": "p8952/bocker",
+    "stargazers_count": 10672,
+    "open_issues_count": 12,
+    "forks_count": 702
+  },
+  {
+    "full_name": "di-sukharev/opencommit",
+    "stargazers_count": 661,
+    "open_issues_count": 23,
+    "forks_count": 27
+  },
+  {
     "full_name": "Prayag2/konsave",
-    "stargazers_count": 510,
+    "stargazers_count": 512,
     "open_issues_count": 10,
     "forks_count": 26
   },
   {
     "full_name": "fieu/discord.sh",
     "stargazers_count": 397,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 62
   },
   {
     "full_name": "nebuly-ai/nebullvm",
-    "stargazers_count": 6686,
-    "open_issues_count": 79,
-    "forks_count": 489
+    "stargazers_count": 6888,
+    "open_issues_count": 81,
+    "forks_count": 515
   },
   {
     "full_name": "gofireflyio/aiac",
-    "stargazers_count": 1884,
-    "open_issues_count": 2,
-    "forks_count": 138
+    "stargazers_count": 1918,
+    "open_issues_count": 3,
+    "forks_count": 140
   },
   {
     "full_name": "cleanlab/cleanlab",
-    "stargazers_count": 5549,
-    "open_issues_count": 56,
-    "forks_count": 460
+    "stargazers_count": 5573,
+    "open_issues_count": 57,
+    "forks_count": 462
   },
   {
     "full_name": "NannyML/nannyml",
-    "stargazers_count": 1448,
-    "open_issues_count": 16,
+    "stargazers_count": 1453,
+    "open_issues_count": 18,
     "forks_count": 100
   },
   {
     "full_name": "pocketbase/pocketbase",
-    "stargazers_count": 21828,
+    "stargazers_count": 21901,
     "open_issues_count": 39,
-    "forks_count": 847
+    "forks_count": 853
   },
   {
     "full_name": "devcontainers/features",
-    "stargazers_count": 348,
-    "open_issues_count": 63,
-    "forks_count": 145
+    "stargazers_count": 353,
+    "open_issues_count": 64,
+    "forks_count": 146
   },
   {
     "full_name": "microsoft/DeepSpeed",
-    "stargazers_count": 9492,
-    "open_issues_count": 705,
-    "forks_count": 1136
+    "stargazers_count": 9586,
+    "open_issues_count": 714,
+    "forks_count": 1144
   },
   {
     "full_name": "lunatic-solutions/lunatic",
-    "stargazers_count": 3991,
+    "stargazers_count": 3992,
     "open_issues_count": 39,
-    "forks_count": 118
+    "forks_count": 117
   },
   {
     "full_name": "rome/tools",
-    "stargazers_count": 22912,
-    "open_issues_count": 147,
-    "forks_count": 662
+    "stargazers_count": 22934,
+    "open_issues_count": 139,
+    "forks_count": 660
   },
   {
     "full_name": "hpcaitech/ColossalAI",
-    "stargazers_count": 18765,
-    "open_issues_count": 291,
-    "forks_count": 2011
+    "stargazers_count": 19042,
+    "open_issues_count": 298,
+    "forks_count": 2047
   },
   {
     "full_name": "google/latexify_py",
-    "stargazers_count": 6059,
+    "stargazers_count": 6065,
     "open_issues_count": 15,
-    "forks_count": 331
+    "forks_count": 330
   },
   {
     "full_name": "bigskysoftware/htmx",
-    "stargazers_count": 10945,
-    "open_issues_count": 173,
-    "forks_count": 419
+    "stargazers_count": 10971,
+    "open_issues_count": 174,
+    "forks_count": 421
   },
   {
     "full_name": "IsmaelMartinez/teams-for-linux",
-    "stargazers_count": 1418,
+    "stargazers_count": 1427,
     "open_issues_count": 51,
-    "forks_count": 129
+    "forks_count": 130
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 811,
-    "open_issues_count": 7,
-    "forks_count": 19
+    "stargazers_count": 810,
+    "open_issues_count": 8,
+    "forks_count": 18
   },
   {
     "full_name": "toeverything/AFFiNE",
-    "stargazers_count": 13666,
-    "open_issues_count": 152,
-    "forks_count": 653
+    "stargazers_count": 13739,
+    "open_issues_count": 150,
+    "forks_count": 655
   },
   {
     "full_name": "trimstray/the-book-of-secret-knowledge",
-    "stargazers_count": 92443,
-    "open_issues_count": 41,
-    "forks_count": 7051
+    "stargazers_count": 92830,
+    "open_issues_count": 42,
+    "forks_count": 7074
   },
   {
     "full_name": "bcicen/ctop",
-    "stargazers_count": 14053,
+    "stargazers_count": 14063,
     "open_issues_count": 90,
-    "forks_count": 519
+    "forks_count": 520
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 17268,
-    "open_issues_count": 104,
-    "forks_count": 582
+    "stargazers_count": 17347,
+    "open_issues_count": 93,
+    "forks_count": 583
   },
   {
     "full_name": "pintariching/rustle",
-    "stargazers_count": 1311,
+    "stargazers_count": 1313,
     "open_issues_count": 4,
     "forks_count": 35
   },
   {
     "full_name": "erg-lang/erg",
-    "stargazers_count": 2140,
+    "stargazers_count": 2143,
     "open_issues_count": 51,
     "forks_count": 47
   },
   {
     "full_name": "sharkdp/bat",
-    "stargazers_count": 40133,
-    "open_issues_count": 179,
-    "forks_count": 1047
+    "stargazers_count": 40195,
+    "open_issues_count": 181,
+    "forks_count": 1050
   },
   {
     "full_name": "iterative/dvc",
-    "stargazers_count": 11219,
-    "open_issues_count": 598,
+    "stargazers_count": 11234,
+    "open_issues_count": 593,
     "forks_count": 1037
   },
   {
     "full_name": "turbot/steampipe",
-    "stargazers_count": 4928,
-    "open_issues_count": 278,
+    "stargazers_count": 4977,
+    "open_issues_count": 289,
     "forks_count": 184
   },
   {
     "full_name": "slundberg/shap",
-    "stargazers_count": 18782,
-    "open_issues_count": 1630,
-    "forks_count": 2829
+    "stargazers_count": 18797,
+    "open_issues_count": 1632,
+    "forks_count": 2832
   },
   {
     "full_name": "starship/starship",
-    "stargazers_count": 33177,
-    "open_issues_count": 521,
-    "forks_count": 1410
+    "stargazers_count": 33249,
+    "open_issues_count": 522,
+    "forks_count": 1418
   },
   {
     "full_name": "cookiecutter/cookiecutter",
-    "stargazers_count": 19146,
-    "open_issues_count": 263,
+    "stargazers_count": 19173,
+    "open_issues_count": 264,
     "forks_count": 1803
-  },
-  {
-    "full_name": "RustPython/RustPython",
-    "stargazers_count": 14498,
-    "open_issues_count": 316,
-    "forks_count": 957
-  },
-  {
-    "full_name": "ephigabay/GIC",
-    "stargazers_count": 70,
-    "open_issues_count": 0,
-    "forks_count": 15
   }
 ]
