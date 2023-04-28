@@ -1,20 +1,20 @@
 [
   {
     "full_name": "nushell/nushell",
-    "stargazers_count": 24282,
+    "stargazers_count": 24365,
     "open_issues_count": 828,
-    "forks_count": 1214
+    "forks_count": 1221
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 80626,
-    "open_issues_count": 9598,
-    "forks_count": 10714
+    "stargazers_count": 80727,
+    "open_issues_count": 9582,
+    "forks_count": 10721
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 866,
+    "stargazers_count": 868,
     "open_issues_count": 9,
-    "forks_count": 598
+    "forks_count": 599
   }
 ]
