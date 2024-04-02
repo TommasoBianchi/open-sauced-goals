@@ -1,39 +1,39 @@
 [
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 4936,
-    "open_issues_count": 46,
-    "forks_count": 176
+    "stargazers_count": 5023,
+    "open_issues_count": 45,
+    "forks_count": 177
   },
   {
     "full_name": "wagoodman/dive",
-    "stargazers_count": 43173,
+    "stargazers_count": 43248,
     "open_issues_count": 168,
-    "forks_count": 1635
+    "forks_count": 1639
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 9598,
-    "open_issues_count": 295,
-    "forks_count": 267
+    "stargazers_count": 9811,
+    "open_issues_count": 300,
+    "forks_count": 271
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 25519,
-    "open_issues_count": 795,
-    "forks_count": 817
+    "stargazers_count": 25653,
+    "open_issues_count": 799,
+    "forks_count": 820
   },
   {
     "full_name": "prefix-dev/rip",
-    "stargazers_count": 614,
-    "open_issues_count": 21,
+    "stargazers_count": 613,
+    "open_issues_count": 23,
     "forks_count": 19
   },
   {
     "full_name": "SkafteNicki/dtu_mlops",
-    "stargazers_count": 434,
+    "stargazers_count": 494,
     "open_issues_count": 4,
-    "forks_count": 406
+    "forks_count": 410
   },
   {
     "full_name": "BauplanLabs/redis3",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "whylabs/langkit",
-    "stargazers_count": 690,
+    "stargazers_count": 692,
     "open_issues_count": 27,
-    "forks_count": 55
+    "forks_count": 56
   },
   {
     "full_name": "RevanMacQueen/Self-Play-Polymatrix",
@@ -55,25 +55,25 @@
   },
   {
     "full_name": "karpathy/nanoGPT",
-    "stargazers_count": 30671,
-    "open_issues_count": 235,
-    "forks_count": 4543
+    "stargazers_count": 30775,
+    "open_issues_count": 236,
+    "forks_count": 4574
   },
   {
     "full_name": "state-spaces/mamba",
-    "stargazers_count": 8224,
-    "open_issues_count": 158,
-    "forks_count": 653
+    "stargazers_count": 8409,
+    "open_issues_count": 164,
+    "forks_count": 665
   },
   {
     "full_name": "Mozilla-Ocho/llamafile",
-    "stargazers_count": 10795,
-    "open_issues_count": 53,
-    "forks_count": 516
+    "stargazers_count": 11364,
+    "open_issues_count": 55,
+    "forks_count": 532
   },
   {
     "full_name": "tldraw/make-real-starter",
-    "stargazers_count": 1336,
+    "stargazers_count": 1339,
     "open_issues_count": 11,
     "forks_count": 208
   },
@@ -85,27 +85,27 @@
   },
   {
     "full_name": "stanfordnlp/dspy",
-    "stargazers_count": 8925,
-    "open_issues_count": 187,
-    "forks_count": 634
+    "stargazers_count": 9238,
+    "open_issues_count": 193,
+    "forks_count": 653
   },
   {
     "full_name": "SebLague/Chess-Challenge",
-    "stargazers_count": 1775,
+    "stargazers_count": 1774,
     "open_issues_count": 120,
-    "forks_count": 1088
+    "forks_count": 1090
   },
   {
     "full_name": "TodePond/DreamBerd",
-    "stargazers_count": 9635,
+    "stargazers_count": 9651,
     "open_issues_count": 299,
     "forks_count": 266
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 82402,
+    "stargazers_count": 82491,
     "open_issues_count": 12,
-    "forks_count": 8911
+    "forks_count": 8919
   },
   {
     "full_name": "jacopotagliabue/post-modern-stack",
@@ -121,43 +121,43 @@
   },
   {
     "full_name": "makeplane/plane",
-    "stargazers_count": 23516,
-    "open_issues_count": 334,
-    "forks_count": 1193
+    "stargazers_count": 23571,
+    "open_issues_count": 336,
+    "forks_count": 1207
   },
   {
     "full_name": "QuivrHQ/quivr",
-    "stargazers_count": 30914,
-    "open_issues_count": 131,
-    "forks_count": 3011
+    "stargazers_count": 31389,
+    "open_issues_count": 137,
+    "forks_count": 3033
   },
   {
     "full_name": "langchain-ai/langchain",
-    "stargazers_count": 80585,
-    "open_issues_count": 1559,
-    "forks_count": 12244
+    "stargazers_count": 80952,
+    "open_issues_count": 1486,
+    "forks_count": 12329
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 25874,
+    "stargazers_count": 25991,
     "open_issues_count": 11,
-    "forks_count": 2951
+    "forks_count": 2967
   },
   {
     "full_name": "suno-ai/bark",
-    "stargazers_count": 31620,
-    "open_issues_count": 185,
-    "forks_count": 3713
+    "stargazers_count": 31778,
+    "open_issues_count": 186,
+    "forks_count": 3731
   },
   {
     "full_name": "salesforce/CodeGen",
-    "stargazers_count": 4727,
+    "stargazers_count": 4730,
     "open_issues_count": 42,
-    "forks_count": 364
+    "forks_count": 365
   },
   {
     "full_name": "microsoft/JARVIS",
-    "stargazers_count": 22877,
+    "stargazers_count": 22900,
     "open_issues_count": 88,
     "forks_count": 1901
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 160086,
-    "open_issues_count": 202,
-    "forks_count": 41343
+    "stargazers_count": 160308,
+    "open_issues_count": 207,
+    "forks_count": 41485
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 63021,
-    "open_issues_count": 374,
-    "forks_count": 6915
+    "stargazers_count": 63144,
+    "open_issues_count": 379,
+    "forks_count": 6934
   }
 ]
