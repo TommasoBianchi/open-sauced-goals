@@ -8,7 +8,7 @@
   {
     "full_name": "lebrice/SimpleParsing",
     "stargazers_count": 492,
-    "open_issues_count": 65,
+    "open_issues_count": 66,
     "forks_count": 58
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4526,
+    "stargazers_count": 4530,
     "open_issues_count": 7,
     "forks_count": 117
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36203,
+    "stargazers_count": 36218,
     "open_issues_count": 159,
-    "forks_count": 3896
+    "forks_count": 3897
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 23866,
-    "open_issues_count": 228,
-    "forks_count": 1335
+    "stargazers_count": 23942,
+    "open_issues_count": 236,
+    "forks_count": 1339
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 18697,
+    "stargazers_count": 18711,
     "open_issues_count": 177,
-    "forks_count": 2334
+    "forks_count": 2336
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 27117,
-    "open_issues_count": 136,
-    "forks_count": 2469
+    "stargazers_count": 27148,
+    "open_issues_count": 140,
+    "forks_count": 2473
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 12350,
-    "open_issues_count": 99,
+    "stargazers_count": 12348,
+    "open_issues_count": 98,
     "forks_count": 1235
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7272,
+    "stargazers_count": 7278,
     "open_issues_count": 53,
     "forks_count": 803
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 15545,
-    "open_issues_count": 457,
-    "forks_count": 660
+    "stargazers_count": 15593,
+    "open_issues_count": 458,
+    "forks_count": 664
   },
   {
     "full_name": "JamBrain/JamBrain",
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 5569,
-    "open_issues_count": 428,
+    "stargazers_count": 5596,
+    "open_issues_count": 429,
     "forks_count": 411
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 25966,
-    "open_issues_count": 58,
-    "forks_count": 418
+    "stargazers_count": 26002,
+    "open_issues_count": 59,
+    "forks_count": 419
   },
   {
     "full_name": "mihaela-stoian/PiShield",
@@ -133,21 +133,21 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 65343,
-    "open_issues_count": 248,
-    "forks_count": 1707
+    "stargazers_count": 65418,
+    "open_issues_count": 249,
+    "forks_count": 1719
   },
   {
     "full_name": "AnswerDotAI/RAGatouille",
-    "stargazers_count": 3646,
+    "stargazers_count": 3651,
     "open_issues_count": 91,
-    "forks_count": 256
+    "forks_count": 255
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 16837,
-    "open_issues_count": 647,
-    "forks_count": 2409
+    "stargazers_count": 16889,
+    "open_issues_count": 651,
+    "forks_count": 2431
   },
   {
     "full_name": "jtom95/scientific-papers-ocr",
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 21348,
-    "open_issues_count": 126,
-    "forks_count": 2331
+    "stargazers_count": 21363,
+    "open_issues_count": 128,
+    "forks_count": 2325
   },
   {
     "full_name": "wagoodman/dive",
-    "stargazers_count": 51820,
-    "open_issues_count": 177,
-    "forks_count": 1904
+    "stargazers_count": 51849,
+    "open_issues_count": 179,
+    "forks_count": 1906
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 65814,
-    "open_issues_count": 2124,
-    "forks_count": 1930
+    "stargazers_count": 66097,
+    "open_issues_count": 2129,
+    "forks_count": 1945
   },
   {
     "full_name": "astral-sh/ruff",
-    "stargazers_count": 41948,
+    "stargazers_count": 42041,
     "open_issues_count": 1691,
-    "forks_count": 1501
+    "forks_count": 1509
   }
 ]
