@@ -3,7 +3,7 @@
     "full_name": "pdm-project/pdm",
     "stargazers_count": 8458,
     "open_issues_count": 44,
-    "forks_count": 449
+    "forks_count": 450
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "Daveonwave/gym4ReaL",
-    "stargazers_count": 30,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4536,
+    "stargazers_count": 4535,
     "open_issues_count": 7,
     "forks_count": 117
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36262,
+    "stargazers_count": 36277,
     "open_issues_count": 158,
-    "forks_count": 3898
+    "forks_count": 3899
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 24275,
-    "open_issues_count": 284,
-    "forks_count": 1377
+    "stargazers_count": 24378,
+    "open_issues_count": 303,
+    "forks_count": 1386
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 18734,
+    "stargazers_count": 18754,
     "open_issues_count": 179,
     "forks_count": 2356
   },
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 27218,
-    "open_issues_count": 127,
-    "forks_count": 2489
+    "stargazers_count": 27237,
+    "open_issues_count": 130,
+    "forks_count": 2495
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -97,38 +97,38 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 12346,
+    "stargazers_count": 12347,
     "open_issues_count": 99,
     "forks_count": 1239
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7324,
+    "stargazers_count": 7329,
     "open_issues_count": 54,
-    "forks_count": 805
+    "forks_count": 807
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 15847,
-    "open_issues_count": 487,
-    "forks_count": 680
+    "stargazers_count": 15907,
+    "open_issues_count": 495,
+    "forks_count": 681
   },
   {
     "full_name": "JamBrain/JamBrain",
-    "stargazers_count": 497,
+    "stargazers_count": 498,
     "open_issues_count": 334,
     "forks_count": 82
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 5641,
+    "stargazers_count": 5665,
     "open_issues_count": 437,
-    "forks_count": 417
+    "forks_count": 418
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 26120,
-    "open_issues_count": 52,
+    "stargazers_count": 26148,
+    "open_issues_count": 54,
     "forks_count": 418
   },
   {
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 65669,
+    "stargazers_count": 65738,
     "open_issues_count": 254,
-    "forks_count": 1728
+    "forks_count": 1730
   },
   {
     "full_name": "AnswerDotAI/RAGatouille",
-    "stargazers_count": 3659,
+    "stargazers_count": 3665,
     "open_issues_count": 91,
     "forks_count": 254
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 17235,
+    "stargazers_count": 17329,
     "open_issues_count": 685,
-    "forks_count": 2512
+    "forks_count": 2541
   },
   {
     "full_name": "jtom95/scientific-papers-ocr",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "daytonaio/daytona",
-    "stargazers_count": 21468,
-    "open_issues_count": 141,
-    "forks_count": 2331
+    "stargazers_count": 21474,
+    "open_issues_count": 139,
+    "forks_count": 2333
   },
   {
     "full_name": "wagoodman/dive",
-    "stargazers_count": 51983,
-    "open_issues_count": 179,
-    "forks_count": 1909
+    "stargazers_count": 52020,
+    "open_issues_count": 178,
+    "forks_count": 1910
   },
   {
     "full_name": "astral-sh/uv",
-    "stargazers_count": 67305,
-    "open_issues_count": 2161,
-    "forks_count": 1995
+    "stargazers_count": 67600,
+    "open_issues_count": 2183,
+    "forks_count": 2012
   }
 ]
