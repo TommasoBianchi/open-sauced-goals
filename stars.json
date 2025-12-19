@@ -1,33 +1,33 @@
 [
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 11326,
-    "open_issues_count": 74,
-    "forks_count": 2058
+    "stargazers_count": 11611,
+    "open_issues_count": 76,
+    "forks_count": 2141
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 20795,
-    "open_issues_count": 15,
-    "forks_count": 919
+    "stargazers_count": 20933,
+    "open_issues_count": 13,
+    "forks_count": 926
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 38723,
-    "open_issues_count": 56,
-    "forks_count": 4869
+    "stargazers_count": 38865,
+    "open_issues_count": 60,
+    "forks_count": 4903
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 15994,
-    "open_issues_count": 319,
-    "forks_count": 949
+    "stargazers_count": 16096,
+    "open_issues_count": 307,
+    "forks_count": 955
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8531,
-    "open_issues_count": 50,
-    "forks_count": 461
+    "stargazers_count": 8534,
+    "open_issues_count": 52,
+    "forks_count": 462
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36544,
+    "stargazers_count": 36554,
     "open_issues_count": 159,
-    "forks_count": 3907
+    "forks_count": 3908
   },
   {
     "full_name": "luksa/kubectl-plugins",
-    "stargazers_count": 370,
+    "stargazers_count": 371,
     "open_issues_count": 4,
     "forks_count": 73
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 28106,
-    "open_issues_count": 395,
-    "forks_count": 1849
+    "stargazers_count": 28213,
+    "open_issues_count": 389,
+    "forks_count": 1855
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 19029,
+    "stargazers_count": 19033,
     "open_issues_count": 182,
-    "forks_count": 2426
+    "forks_count": 2428
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 27799,
+    "stargazers_count": 27815,
     "open_issues_count": 130,
-    "forks_count": 2567
+    "forks_count": 2568
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 13013,
-    "open_issues_count": 103,
-    "forks_count": 1332
+    "stargazers_count": 13042,
+    "open_issues_count": 106,
+    "forks_count": 1337
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7475,
+    "stargazers_count": 7477,
     "open_issues_count": 54,
     "forks_count": 835
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 17806,
-    "open_issues_count": 535,
-    "forks_count": 829
+    "stargazers_count": 17911,
+    "open_issues_count": 541,
+    "forks_count": 837
   },
   {
     "full_name": "JamBrain/JamBrain",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 6071,
-    "open_issues_count": 330,
-    "forks_count": 443
+    "stargazers_count": 6080,
+    "open_issues_count": 331,
+    "forks_count": 444
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 27013,
-    "open_issues_count": 62,
+    "stargazers_count": 27041,
+    "open_issues_count": 63,
     "forks_count": 440
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 67589,
-    "open_issues_count": 275,
-    "forks_count": 1802
+    "stargazers_count": 67662,
+    "open_issues_count": 276,
+    "forks_count": 1806
   },
   {
     "full_name": "AnswerDotAI/RAGatouille",
-    "stargazers_count": 3795,
+    "stargazers_count": 3797,
     "open_issues_count": 94,
     "forks_count": 262
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 20208,
-    "open_issues_count": 652,
-    "forks_count": 3279
+    "stargazers_count": 20283,
+    "open_issues_count": 665,
+    "forks_count": 3296
   }
 ]
