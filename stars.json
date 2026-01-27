@@ -1,33 +1,33 @@
 [
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 13697,
+    "stargazers_count": 13881,
     "open_issues_count": 97,
-    "forks_count": 2737
+    "forks_count": 2785
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 22076,
-    "open_issues_count": 11,
-    "forks_count": 971
+    "stargazers_count": 22192,
+    "open_issues_count": 14,
+    "forks_count": 978
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 40684,
-    "open_issues_count": 41,
-    "forks_count": 5267
+    "stargazers_count": 40890,
+    "open_issues_count": 42,
+    "forks_count": 5301
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 18692,
-    "open_issues_count": 385,
-    "forks_count": 1139
+    "stargazers_count": 18917,
+    "open_issues_count": 391,
+    "forks_count": 1156
   },
   {
     "full_name": "pdm-project/pdm",
     "stargazers_count": 8541,
     "open_issues_count": 49,
-    "forks_count": 463
+    "forks_count": 464
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "lebrice/SimpleParsing",
-    "stargazers_count": 523,
-    "open_issues_count": 68,
-    "forks_count": 59
+    "stargazers_count": 524,
+    "open_issues_count": 69,
+    "forks_count": 60
   },
   {
     "full_name": "Daveonwave/gym4ReaL",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4617,
+    "stargazers_count": 4618,
     "open_issues_count": 8,
     "forks_count": 119
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36638,
+    "stargazers_count": 36633,
     "open_issues_count": 159,
-    "forks_count": 3912
+    "forks_count": 3913
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 29355,
-    "open_issues_count": 472,
-    "forks_count": 1959
+    "stargazers_count": 29519,
+    "open_issues_count": 485,
+    "forks_count": 1981
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 19127,
+    "stargazers_count": 19135,
     "open_issues_count": 183,
-    "forks_count": 2438
+    "forks_count": 2441
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 28008,
-    "open_issues_count": 140,
-    "forks_count": 2596
+    "stargazers_count": 28032,
+    "open_issues_count": 128,
+    "forks_count": 2598
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 13383,
-    "open_issues_count": 111,
-    "forks_count": 1387
+    "stargazers_count": 13393,
+    "open_issues_count": 113,
+    "forks_count": 1389
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7521,
+    "stargazers_count": 7535,
     "open_issues_count": 55,
-    "forks_count": 836
+    "forks_count": 835
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 18603,
-    "open_issues_count": 548,
-    "forks_count": 880
+    "stargazers_count": 18693,
+    "open_issues_count": 568,
+    "forks_count": 887
   },
   {
     "full_name": "JamBrain/JamBrain",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 6197,
-    "open_issues_count": 345,
+    "stargazers_count": 6223,
+    "open_issues_count": 352,
     "forks_count": 456
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 27307,
+    "stargazers_count": 27356,
     "open_issues_count": 65,
     "forks_count": 445
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 68305,
-    "open_issues_count": 282,
-    "forks_count": 1829
+    "stargazers_count": 68373,
+    "open_issues_count": 281,
+    "forks_count": 1833
   },
   {
     "full_name": "AnswerDotAI/RAGatouille",
-    "stargazers_count": 3827,
+    "stargazers_count": 3834,
     "open_issues_count": 94,
     "forks_count": 263
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 21107,
-    "open_issues_count": 683,
-    "forks_count": 3562
+    "stargazers_count": 21190,
+    "open_issues_count": 691,
+    "forks_count": 3592
   }
 ]
