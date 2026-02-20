@@ -1,33 +1,33 @@
 [
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 14637,
+    "stargazers_count": 14765,
     "open_issues_count": 106,
-    "forks_count": 2954
+    "forks_count": 2979
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 22662,
-    "open_issues_count": 17,
-    "forks_count": 1002
+    "stargazers_count": 22710,
+    "open_issues_count": 15,
+    "forks_count": 1003
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 43496,
-    "open_issues_count": 49,
-    "forks_count": 5668
+    "stargazers_count": 43703,
+    "open_issues_count": 50,
+    "forks_count": 5702
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 20056,
+    "stargazers_count": 20164,
     "open_issues_count": 331,
-    "forks_count": 1234
+    "forks_count": 1245
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8539,
+    "stargazers_count": 8540,
     "open_issues_count": 52,
-    "forks_count": 465
+    "forks_count": 466
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4627,
+    "stargazers_count": 4628,
     "open_issues_count": 8,
     "forks_count": 121
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36634,
+    "stargazers_count": 36635,
     "open_issues_count": 159,
     "forks_count": 3912
   },
@@ -87,17 +87,17 @@
     "full_name": "luksa/kubectl-plugins",
     "stargazers_count": 371,
     "open_issues_count": 4,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 30495,
-    "open_issues_count": 484,
-    "forks_count": 2077
+    "stargazers_count": 30653,
+    "open_issues_count": 495,
+    "forks_count": 2094
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 19174,
+    "stargazers_count": 19179,
     "open_issues_count": 185,
     "forks_count": 2446
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 28140,
-    "open_issues_count": 112,
-    "forks_count": 2606
+    "stargazers_count": 28146,
+    "open_issues_count": 111,
+    "forks_count": 2608
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -121,21 +121,21 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 13456,
-    "open_issues_count": 114,
-    "forks_count": 1398
+    "stargazers_count": 13463,
+    "open_issues_count": 115,
+    "forks_count": 1402
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7564,
+    "stargazers_count": 7567,
     "open_issues_count": 56,
-    "forks_count": 831
+    "forks_count": 833
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 19157,
-    "open_issues_count": 581,
-    "forks_count": 917
+    "stargazers_count": 19216,
+    "open_issues_count": 573,
+    "forks_count": 925
   },
   {
     "full_name": "JamBrain/JamBrain",
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 6307,
-    "open_issues_count": 355,
-    "forks_count": 463
+    "stargazers_count": 6312,
+    "open_issues_count": 352,
+    "forks_count": 466
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 27515,
+    "stargazers_count": 27533,
     "open_issues_count": 66,
     "forks_count": 449
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 68794,
+    "stargazers_count": 68865,
     "open_issues_count": 286,
     "forks_count": 1850
   },
   {
     "full_name": "AnswerDotAI/RAGatouille",
-    "stargazers_count": 3853,
-    "open_issues_count": 94,
+    "stargazers_count": 3857,
+    "open_issues_count": 95,
     "forks_count": 263
   },
   {
     "full_name": "huggingface/lerobot",
-    "stargazers_count": 21638,
-    "open_issues_count": 726,
-    "forks_count": 3776
+    "stargazers_count": 21685,
+    "open_issues_count": 723,
+    "forks_count": 3802
   }
 ]
