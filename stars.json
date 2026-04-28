@@ -1,9 +1,9 @@
 [
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 76090,
+    "stargazers_count": 77292,
     "open_issues_count": 178,
-    "forks_count": 11091
+    "forks_count": 11266
   },
   {
     "full_name": "banda-larga/ctxtual",
@@ -13,51 +13,51 @@
   },
   {
     "full_name": "open-webui/open-terminal",
-    "stargazers_count": 2370,
+    "stargazers_count": 2402,
     "open_issues_count": 10,
-    "forks_count": 179
+    "forks_count": 180
   },
   {
     "full_name": "RightNow-AI/picolm",
-    "stargazers_count": 1500,
+    "stargazers_count": 1570,
     "open_issues_count": 21,
-    "forks_count": 185
+    "forks_count": 190
   },
   {
     "full_name": "AlexsJones/llmfit",
-    "stargazers_count": 24500,
-    "open_issues_count": 70,
-    "forks_count": 1463
+    "stargazers_count": 24768,
+    "open_issues_count": 62,
+    "forks_count": 1471
   },
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 17602,
+    "stargazers_count": 17856,
     "open_issues_count": 117,
-    "forks_count": 3460
+    "forks_count": 3489
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 24002,
+    "stargazers_count": 24039,
     "open_issues_count": 15,
     "forks_count": 1071
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 52418,
-    "open_issues_count": 93,
-    "forks_count": 6981
+    "stargazers_count": 52609,
+    "open_issues_count": 94,
+    "forks_count": 7037
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 23395,
-    "open_issues_count": 398,
-    "forks_count": 1556
+    "stargazers_count": 23580,
+    "open_issues_count": 412,
+    "forks_count": 1576
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8571,
-    "open_issues_count": 52,
-    "forks_count": 470
+    "stargazers_count": 8586,
+    "open_issues_count": 53,
+    "forks_count": 469
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4657,
+    "stargazers_count": 4659,
     "open_issues_count": 8,
     "forks_count": 126
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36447,
+    "stargazers_count": 36444,
     "open_issues_count": 160,
-    "forks_count": 3907
+    "forks_count": 3905
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 33417,
-    "open_issues_count": 508,
-    "forks_count": 2396
+    "stargazers_count": 33567,
+    "open_issues_count": 507,
+    "forks_count": 2409
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 19436,
+    "stargazers_count": 19450,
     "open_issues_count": 188,
-    "forks_count": 2516
+    "forks_count": 2523
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/Genesis",
-    "stargazers_count": 28570,
-    "open_issues_count": 117,
-    "forks_count": 2674
+    "stargazers_count": 28582,
+    "open_issues_count": 123,
+    "forks_count": 2673
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 13734,
+    "stargazers_count": 13743,
     "open_issues_count": 132,
-    "forks_count": 1447
+    "forks_count": 1448
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7661,
-    "open_issues_count": 71,
+    "stargazers_count": 7667,
+    "open_issues_count": 74,
     "forks_count": 848
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 20587,
-    "open_issues_count": 593,
-    "forks_count": 1047
+    "stargazers_count": 20668,
+    "open_issues_count": 609,
+    "forks_count": 1057
   },
   {
     "full_name": "JamBrain/JamBrain",
     "stargazers_count": 502,
-    "open_issues_count": 335,
+    "open_issues_count": 337,
     "forks_count": 84
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 6694,
-    "open_issues_count": 328,
-    "forks_count": 486
+    "stargazers_count": 6717,
+    "open_issues_count": 320,
+    "forks_count": 489
   }
 ]
