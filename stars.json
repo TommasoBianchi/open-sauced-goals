@@ -1,9 +1,9 @@
 [
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 81141,
-    "open_issues_count": 184,
-    "forks_count": 11804
+    "stargazers_count": 81800,
+    "open_issues_count": 181,
+    "forks_count": 11887
   },
   {
     "full_name": "banda-larga/ctxtual",
@@ -13,49 +13,49 @@
   },
   {
     "full_name": "open-webui/open-terminal",
-    "stargazers_count": 2523,
-    "open_issues_count": 18,
-    "forks_count": 196
+    "stargazers_count": 2552,
+    "open_issues_count": 20,
+    "forks_count": 198
   },
   {
     "full_name": "RightNow-AI/picolm",
-    "stargazers_count": 1602,
+    "stargazers_count": 1608,
     "open_issues_count": 23,
-    "forks_count": 200
+    "forks_count": 201
   },
   {
     "full_name": "AlexsJones/llmfit",
-    "stargazers_count": 25988,
-    "open_issues_count": 53,
-    "forks_count": 1561
+    "stargazers_count": 26386,
+    "open_issues_count": 54,
+    "forks_count": 1578
   },
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 18757,
+    "stargazers_count": 18913,
     "open_issues_count": 124,
-    "forks_count": 3628
+    "forks_count": 3642
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 24263,
-    "open_issues_count": 19,
-    "forks_count": 1077
+    "stargazers_count": 24300,
+    "open_issues_count": 7,
+    "forks_count": 1078
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 53453,
-    "open_issues_count": 104,
-    "forks_count": 7184
+    "stargazers_count": 53632,
+    "open_issues_count": 105,
+    "forks_count": 7220
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 24286,
-    "open_issues_count": 425,
-    "forks_count": 1678
+    "stargazers_count": 24400,
+    "open_issues_count": 432,
+    "forks_count": 1699
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8617,
+    "stargazers_count": 8623,
     "open_issues_count": 53,
     "forks_count": 471
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4660,
+    "stargazers_count": 4661,
     "open_issues_count": 8,
     "forks_count": 125
   },
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36412,
+    "stargazers_count": 36415,
     "open_issues_count": 161,
-    "forks_count": 3905
+    "forks_count": 3903
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 33992,
-    "open_issues_count": 527,
-    "forks_count": 2459
+    "stargazers_count": 34077,
+    "open_issues_count": 539,
+    "forks_count": 2478
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 19505,
+    "stargazers_count": 19516,
     "open_issues_count": 188,
     "forks_count": 2548
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/genesis-world",
-    "stargazers_count": 28784,
-    "open_issues_count": 117,
-    "forks_count": 2705
+    "stargazers_count": 28801,
+    "open_issues_count": 121,
+    "forks_count": 2708
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -151,21 +151,21 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 13766,
+    "stargazers_count": 13772,
     "open_issues_count": 128,
-    "forks_count": 1448
+    "forks_count": 1449
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7696,
+    "stargazers_count": 7703,
     "open_issues_count": 76,
     "forks_count": 848
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 20977,
-    "open_issues_count": 606,
-    "forks_count": 1084
+    "stargazers_count": 21047,
+    "open_issues_count": 622,
+    "forks_count": 1095
   },
   {
     "full_name": "JamBrain/JamBrain",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "cachix/devenv",
-    "stargazers_count": 6783,
-    "open_issues_count": 335,
-    "forks_count": 487
+    "stargazers_count": 6791,
+    "open_issues_count": 339,
+    "forks_count": 486
   }
 ]
