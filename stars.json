@@ -1,15 +1,15 @@
 [
   {
     "full_name": "mudler/LocalAI",
-    "stargazers_count": 48799,
-    "open_issues_count": 188,
-    "forks_count": 4403
+    "stargazers_count": 48852,
+    "open_issues_count": 214,
+    "forks_count": 4413
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 95017,
+    "stargazers_count": 95217,
     "open_issues_count": 194,
-    "forks_count": 13376
+    "forks_count": 13390
   },
   {
     "full_name": "banda-larga/ctxtual",
@@ -19,49 +19,49 @@
   },
   {
     "full_name": "open-webui/open-terminal",
-    "stargazers_count": 3050,
+    "stargazers_count": 3061,
     "open_issues_count": 48,
-    "forks_count": 253
+    "forks_count": 256
   },
   {
     "full_name": "RightNow-AI/picolm",
-    "stargazers_count": 1924,
+    "stargazers_count": 1928,
     "open_issues_count": 25,
-    "forks_count": 241
+    "forks_count": 242
   },
   {
     "full_name": "AlexsJones/llmfit",
-    "stargazers_count": 34634,
-    "open_issues_count": 69,
-    "forks_count": 2169
+    "stargazers_count": 34853,
+    "open_issues_count": 56,
+    "forks_count": 2187
   },
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 24489,
+    "stargazers_count": 24586,
     "open_issues_count": 146,
-    "forks_count": 4311
+    "forks_count": 4324
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 25289,
+    "stargazers_count": 25320,
     "open_issues_count": 4,
-    "forks_count": 1123
+    "forks_count": 1122
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 57703,
-    "open_issues_count": 115,
-    "forks_count": 8034
+    "stargazers_count": 57764,
+    "open_issues_count": 116,
+    "forks_count": 8050
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 27844,
-    "open_issues_count": 673,
-    "forks_count": 2204
+    "stargazers_count": 27888,
+    "open_issues_count": 687,
+    "forks_count": 2224
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8671,
+    "stargazers_count": 8672,
     "open_issues_count": 47,
     "forks_count": 488
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "initialcommit-com/git-sim",
-    "stargazers_count": 4681,
+    "stargazers_count": 4680,
     "open_issues_count": 8,
     "forks_count": 121
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36446,
+    "stargazers_count": 36448,
     "open_issues_count": 159,
-    "forks_count": 3884
+    "forks_count": 3883
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 37009,
-    "open_issues_count": 673,
-    "forks_count": 2928
+    "stargazers_count": 37079,
+    "open_issues_count": 723,
+    "forks_count": 2941
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 20041,
+    "stargazers_count": 20045,
     "open_issues_count": 189,
-    "forks_count": 2623
+    "forks_count": 2624
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -145,31 +145,31 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/genesis-world",
-    "stargazers_count": 29847,
-    "open_issues_count": 129,
-    "forks_count": 2843
+    "stargazers_count": 29871,
+    "open_issues_count": 136,
+    "forks_count": 2850
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
-    "stargazers_count": 83,
+    "stargazers_count": 84,
     "open_issues_count": 16,
     "forks_count": 11
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 16223,
-    "open_issues_count": 148,
+    "stargazers_count": 16232,
+    "open_issues_count": 149,
     "forks_count": 1725
   },
   {
     "full_name": "weaviate/Verba",
-    "stargazers_count": 7711,
+    "stargazers_count": 7709,
     "open_issues_count": 78,
-    "forks_count": 852
+    "forks_count": 851
   },
   {
     "full_name": "marimo-team/marimo",
-    "stargazers_count": 22578,
+    "stargazers_count": 22635,
     "open_issues_count": 606,
     "forks_count": 1249
   },
