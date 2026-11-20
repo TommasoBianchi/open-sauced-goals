@@ -1,33 +1,33 @@
 [
   {
     "full_name": "UKGovernmentBEIS/inspect_ai",
-    "stargazers_count": 3274,
-    "open_issues_count": 527,
-    "forks_count": 942
+    "stargazers_count": 3294,
+    "open_issues_count": 526,
+    "forks_count": 954
   },
   {
     "full_name": "ai-dynamo/aiperf",
-    "stargazers_count": 886,
-    "open_issues_count": 141,
-    "forks_count": 272
+    "stargazers_count": 897,
+    "open_issues_count": 149,
+    "forks_count": 273
   },
   {
     "full_name": "HazyResearch/ncm",
-    "stargazers_count": 1918,
+    "stargazers_count": 1984,
     "open_issues_count": 23,
-    "forks_count": 265
+    "forks_count": 277
   },
   {
     "full_name": "mudler/LocalAI",
-    "stargazers_count": 50406,
-    "open_issues_count": 186,
-    "forks_count": 4613
+    "stargazers_count": 50462,
+    "open_issues_count": 206,
+    "forks_count": 4621
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 100158,
-    "open_issues_count": 195,
-    "forks_count": 13785
+    "stargazers_count": 100307,
+    "open_issues_count": 194,
+    "forks_count": 13795
   },
   {
     "full_name": "banda-larga/ctxtual",
@@ -37,51 +37,51 @@
   },
   {
     "full_name": "open-webui/open-terminal",
-    "stargazers_count": 3599,
-    "open_issues_count": 90,
-    "forks_count": 338
+    "stargazers_count": 3625,
+    "open_issues_count": 95,
+    "forks_count": 341
   },
   {
     "full_name": "RightNow-AI/picolm",
-    "stargazers_count": 2217,
+    "stargazers_count": 2218,
     "open_issues_count": 23,
-    "forks_count": 269
+    "forks_count": 271
   },
   {
     "full_name": "AlexsJones/llmfit",
-    "stargazers_count": 39031,
-    "open_issues_count": 70,
-    "forks_count": 2526
+    "stargazers_count": 39126,
+    "open_issues_count": 61,
+    "forks_count": 2536
   },
   {
     "full_name": "karpathy/llm-council",
-    "stargazers_count": 26649,
+    "stargazers_count": 26761,
     "open_issues_count": 150,
-    "forks_count": 4540
+    "forks_count": 4551
   },
   {
     "full_name": "toon-format/toon",
-    "stargazers_count": 25635,
-    "open_issues_count": 6,
+    "stargazers_count": 25642,
+    "open_issues_count": 7,
     "forks_count": 1126
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 60620,
-    "open_issues_count": 138,
-    "forks_count": 8511
+    "stargazers_count": 60734,
+    "open_issues_count": 139,
+    "forks_count": 8531
   },
   {
     "full_name": "charmbracelet/crush",
-    "stargazers_count": 29107,
-    "open_issues_count": 559,
-    "forks_count": 2370
+    "stargazers_count": 29144,
+    "open_issues_count": 564,
+    "forks_count": 2382
   },
   {
     "full_name": "pdm-project/pdm",
-    "stargazers_count": 8664,
-    "open_issues_count": 54,
-    "forks_count": 528
+    "stargazers_count": 8669,
+    "open_issues_count": 55,
+    "forks_count": 531
   },
   {
     "full_name": "mivade/argparse_dataclass",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "lebrice/SimpleParsing",
-    "stargazers_count": 552,
+    "stargazers_count": 551,
     "open_issues_count": 82,
     "forks_count": 71
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "open-guides/og-aws",
-    "stargazers_count": 36463,
+    "stargazers_count": 36466,
     "open_issues_count": 179,
-    "forks_count": 3871
+    "forks_count": 3868
   },
   {
     "full_name": "luksa/kubectl-plugins",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "Dokploy/dokploy",
-    "stargazers_count": 38556,
-    "open_issues_count": 833,
-    "forks_count": 3179
+    "stargazers_count": 38622,
+    "open_issues_count": 834,
+    "forks_count": 3185
   },
   {
     "full_name": "karpathy/llama2.c",
-    "stargazers_count": 20282,
+    "stargazers_count": 20296,
     "open_issues_count": 191,
-    "forks_count": 2673
+    "forks_count": 2675
   },
   {
     "full_name": "likejazz/llama3.np",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "Genesis-Embodied-AI/genesis-world",
-    "stargazers_count": 30244,
-    "open_issues_count": 161,
-    "forks_count": 2918
+    "stargazers_count": 30268,
+    "open_issues_count": 176,
+    "forks_count": 2924
   },
   {
     "full_name": "radicalbit/radicalbit-ai-monitoring",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "andrewyng/aisuite",
-    "stargazers_count": 16403,
+    "stargazers_count": 16404,
     "open_issues_count": 167,
     "forks_count": 1746
   }
